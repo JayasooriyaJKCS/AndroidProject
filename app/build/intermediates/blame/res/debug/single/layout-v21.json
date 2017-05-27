@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mtit\\Desktop\\MadAssignment\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\mtit\\.android\\build-cache\\1eda5f3c4c920c3680d06a257f965c32edde7cc9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\mtit\\Desktop\\MadAssignment\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mtit\\.android\\build-cache\\1eda5f3c4c920c3680d06a257f965c32edde7cc9\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mtit\\Desktop\\MadAssignment\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\mtit\\.android\\build-cache\\1eda5f3c4c920c3680d06a257f965c32edde7cc9\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\mtit\\Desktop\\MadAssignment\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mtit\\.android\\build-cache\\1eda5f3c4c920c3680d06a257f965c32edde7cc9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mtit\.android\build-cache\a588ff9ad25e3c9ee62465324743a54aa3c07a1b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtit\.android\build-cache\6cb98099c83c72b63d1a6a8ce5212b9264a852ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtit\.android\build-cache\61b8e9fcb53a6ff004780b3994f4ce32a013e7ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mtit\.android\build-cache\525caa63590e270155c646de7164651fb5a47f92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mtit\.android\build-cache\8ec0ad9a41e9a9d150884bcfc3e1e23ced021c4f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mtit\.android\build-cache\f8aa3d6ee4c6e0d2b17eb4e4709b4a8b14847253\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mtit\.android\build-cache\f7fab8a3316c2f4dae5e53e7d1378a955579f7c1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mtit\.android\build-cache\cd5709aaee6ec44f9967381d1d967eebca3cdab8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\mtit\.android\build-cache\0f4eedc174fdd4fdaad368a86cae727544e7253b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:11:9-40
+activity#lk.sliit.mad.madassignment.MainActivity
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:16:27-74
+activity#lk.sliit.mad.madassignment.gameOver
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:19:19-43
+activity#lk.sliit.mad.madassignment.win
+ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml:20:19-38
+uses-sdk
+INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mtit\.android\build-cache\a588ff9ad25e3c9ee62465324743a54aa3c07a1b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtit\.android\build-cache\6cb98099c83c72b63d1a6a8ce5212b9264a852ac\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtit\.android\build-cache\61b8e9fcb53a6ff004780b3994f4ce32a013e7ce\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mtit\.android\build-cache\525caa63590e270155c646de7164651fb5a47f92\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mtit\.android\build-cache\8ec0ad9a41e9a9d150884bcfc3e1e23ced021c4f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mtit\.android\build-cache\f8aa3d6ee4c6e0d2b17eb4e4709b4a8b14847253\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mtit\.android\build-cache\f7fab8a3316c2f4dae5e53e7d1378a955579f7c1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mtit\.android\build-cache\cd5709aaee6ec44f9967381d1d967eebca3cdab8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\mtit\.android\build-cache\0f4eedc174fdd4fdaad368a86cae727544e7253b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mtit\Desktop\MadAssignment\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mtit\.android\build-cache\a588ff9ad25e3c9ee62465324743a54aa3c07a1b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtit\.android\build-cache\6cb98099c83c72b63d1a6a8ce5212b9264a852ac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtit\.android\build-cache\61b8e9fcb53a6ff004780b3994f4ce32a013e7ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mtit\.android\build-cache\525caa63590e270155c646de7164651fb5a47f92\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mtit\.android\build-cache\8ec0ad9a41e9a9d150884bcfc3e1e23ced021c4f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mtit\.android\build-cache\f8aa3d6ee4c6e0d2b17eb4e4709b4a8b14847253\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mtit\.android\build-cache\f7fab8a3316c2f4dae5e53e7d1378a955579f7c1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mtit\.android\build-cache\cd5709aaee6ec44f9967381d1d967eebca3cdab8\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\AndroidManifest.xml:26:9-47

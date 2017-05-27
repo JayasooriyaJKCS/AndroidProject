@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\1eda5f3c4c920c3680d06a257f965c32edde7cc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_17b7710361010bffbef08daf0d8ccbb2246c8ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\f8aa3d6ee4c6e0d2b17eb4e4709b4a8b14847253\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_cbe86d93dfe3a01319ec690df61d7116e7868f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\61b8e9fcb53a6ff004780b3994f4ce32a013e7ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_efd2b5123621b2c87f88e0c14423738bc072a994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\f7fab8a3316c2f4dae5e53e7d1378a955579f7c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_6550164e891e3b16596e64834e3cf6f1c85fdfa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="B:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6644dcc268a5f46375651a8b3f54ba508c347058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\525caa63590e270155c646de7164651fb5a47f92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_6f631aded6f54b4af9848201ff1b7ec847116713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\cd5709aaee6ec44f9967381d1d967eebca3cdab8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_ebe3d35f599c8b3e42f362968668f14b4755a084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\8ec0ad9a41e9a9d150884bcfc3e1e23ced021c4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_7e7d668df7c42e132cb8a2f749f350fbc5cc6f5f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a21edc69af407ef18578a574d5a2726970948564">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7fdbac8e974a6c656975a8ceb7c62179b012c82b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\a588ff9ad25e3c9ee62465324743a54aa3c07a1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_281f5df85ebbd17ba442bdcca6722dc98aa346d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2a0e1e2552c760876616accf0087c7671bd8b9b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\0f4eedc174fdd4fdaad368a86cae727544e7253b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_e83ea0484908b67b5e7dd74d464a249e3750ec89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="B:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_43fca478bd4f3b318f758f0896935f2db59b83d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtit\.android\build-cache\6cb98099c83c72b63d1a6a8ce5212b9264a852ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\mtit\Desktop\MadAssignment\app\build\intermediates\pre-dexed\debug\classes_6a80a26b0b3a5e399668a1563c88aa18271ebad7.jar" />
+    </item>
+
+</items>
